@@ -1,0 +1,12 @@
+{
+  "brand": {
+    "primary": "#22c55e",
+    "secondary": "#0f1f16",
+    "text": "#f5f5f0"
+  },
+  "cta": "Shop now",
+  "currency": "USD",
+  "logo_text": "GLOW & CO",
+  "name": "Glow Face Serum",
+  "price": "$19.99"
+}
